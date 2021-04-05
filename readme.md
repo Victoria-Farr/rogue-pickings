@@ -1,3 +1,4 @@
+![Rogue Pickings Screenshot Banner](img/rogue-readme-header.png)
 # Rogue Pickings site
 
 A clean, minimalist site for a "fresh food" restaurant truck business, complete with information about locations, menus, and reviews from satisfied customers! It was crafted using our good ole' friends HTML & CSS from a comp provided by a web designer.
