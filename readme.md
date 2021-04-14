@@ -3,9 +3,11 @@
 
 A clean, minimalist site for a "fresh food" restaurant truck business, complete with information about locations, menus, and reviews from satisfied customers! It was crafted using our good ole' friends HTML & CSS from a comp provided by a web designer.
 
+It can be viewed at: https://victoria-farr.github.io/rogue-pickings/
+
 ## Prerequisites
 
-- A simple, up-to-date browser than can read and display HTML5 & CSS is all that's needed. 🤓
+- An up-to-date browser than can read and display HTML5 & CSS is all that's needed. 🤓
 
 This is a student project for display only, thanks!
 
