@@ -22,7 +22,7 @@ The following contributed to this project:
 
 ## Contact
 
-If you want to contact me you can reach me at [victoriafarr@gmail.com](mailto:victoriafarr@gmail.com)
+If you want to contact me, you can reach me at [victoriafarr@gmail.com](mailto:victoriafarr@gmail.com)
 
 ## License
 [Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)](https://creativecommons.org/licenses/by-nc-nd/4.0/).
