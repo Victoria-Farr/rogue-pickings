@@ -1,7 +1,7 @@
 ![Rogue Pickings Banner](img/rogue-readme-header.png)
 # Rogue Pickings site
 
-A clean, minimalist site concept for a "fresh food" restaurant truck business, with information about locations, menus, and reviews from satisfied customers! It was crafted using HTML & CSS from a comp provided by a web designer.🥑
+A clean, minimalist site concept for a "fresh food" restaurant truck business, with information about locations, menus, and reviews from satisfied customers! It was crafted using HTML & CSS from a comp provided by a web designer. 🥑
 
 It can be viewed at: https://victoria-farr.github.io/rogue-pickings/
 
