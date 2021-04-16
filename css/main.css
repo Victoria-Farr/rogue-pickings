@@ -126,6 +126,15 @@ main img {
 #about ul li {
   margin-top: 14px;
 }
+
+#about img {
+  border: none;
+  margin: 0;
+}
+
+#about p {
+  margin-bottom: 10px;
+}
 /***** FOOTER *****/
 
 #slogan h2 {
